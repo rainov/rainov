@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rainov
 - 👀 I’m interested in javaScript and React
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN stack, React native, Kotlin and Firebase
 - 📫 How to reach me ...
 
 <!---
