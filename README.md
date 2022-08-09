@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rainov
-- 👀 I’m interested in javaScript and React
+- 👨‍🎓 IT student at Oulu university of applied sciences
+- 👀 I’m interested in javaScript, React, React native, Linux
 - 🌱 I’m currently learning MERN stack, React native, Kotlin and Firebase
-- 📫 How to reach me ...
 
 <!---
 rainov/rainov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
