@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @rainov
 - 👨‍🎓 IT student at Oulu university of applied sciences
 - 👀 I’m interested in javaScript, React, React native, Python, Linux
 - 🌱 I’m currently learning MERN stack, React native, Python, Kotlin and Firebase
