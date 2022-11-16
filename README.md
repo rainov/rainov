@@ -1,4 +1,4 @@
-- 👨‍🎓 IT student at Oulu university of applied sciences
+- 👨‍🎓 IT student at University of applied sciences Oulu
 - 👀 I’m interested in javaScript, React, React native, Python, Linux
 - 🌱 I’m currently learning MERN stack, React native, Python, Kotlin and Firebase
 
