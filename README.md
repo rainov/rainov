@@ -1,6 +1,6 @@
 - 👨‍🎓 IT student at University of applied sciences Oulu
-- 👀 I’m interested in javaScript, React, React native, Python, Linux
-- 🌱 I’m currently learning MERN stack, React native, Python, Kotlin and Firebase
+- 🌱 I have experience in JavaScript, Kotlin, React, React native, NodeJS, Express, MongoDB, Linux, VsCode, Android Studio, Firebase
+- 👀 I’m currently looking for trainee positions in Oulu Finland.
 
 <!---
 rainov/rainov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
